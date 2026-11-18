@@ -2,7 +2,15 @@
 # its own .github/FUNDING.yml. This file lives in the public DwainSnickles/.github
 # repository, which GitHub reads as the account-wide default.
 #
-# Replace the values below with your real Ko-fi handle and donation page.
+# All three links are live. Ko-fi (ko-fi.com/dwainhsnickles) accepts plain cards, so a
+# visitor without a PayPal account can still tip; the PayPal.Me entry is a direct PayPal
+# transfer; the last entry is the project site. Ko-fi and PayPal.Me handles cannot be
+# renamed once created, so treat both as fixed.
+#
+# Links alone do not draw the button. Each repository also needs its Sponsorships
+# feature enabled - Settings -> General -> Features -> Sponsorships, or the GraphQL
+# hasSponsorshipsEnabled field - and a repository with no commits has no page to
+# render the button on.
 
 ko_fi: dwainhsnickles
 custom: ["https://paypal.me/YTDPlatinum", "https://dwainsnickles.github.io"]
