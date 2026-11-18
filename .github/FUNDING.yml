@@ -1,0 +1,8 @@
+# Default sponsor button for every DwainSnickles repository that does not define
+# its own .github/FUNDING.yml. This file lives in the public DwainSnickles/.github
+# repository, which GitHub reads as the account-wide default.
+#
+# Replace the values below with your real Ko-fi handle and donation page.
+
+ko_fi: DwainSnickles
+custom: ["https://dwainsnickles.github.io"]
